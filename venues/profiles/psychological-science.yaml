@@ -1,0 +1,17 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Psychological Science
+also_known_as: [Psychol. Sci.]
+type: journal
+publisher: Association for Psychological Science (APS)
+fields: [psychology, behavioral science]
+
+links:
+  author_guidelines: https://www.psychologicalscience.org/publications/psychological_science/ps-submissions
+
+notes:
+  - APS publishes several journals with different remits, and the submission guidelines explain how Psychological Science differs from them.
+  - The guidelines set out the journal's transparency and open-science expectations, including possible checks of computational reproducibility.
+
+last_checked: 2026-11-17

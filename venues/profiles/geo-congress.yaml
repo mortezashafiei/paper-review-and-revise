@@ -1,0 +1,20 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Geo-Congress
+also_known_as: [GeoCongress, ASCE Geo-Congress]
+type: conference
+publisher: Geo-Institute of ASCE
+fields: [geotechnical engineering, geoenvironmental engineering]
+
+links:
+  homepage: https://geoinstitute.org/
+  events: https://www.geoinstitute.org/events
+  author_guidelines: https://ascelibrary.org/author-center/proceedings-authors
+
+notes:
+  - The annual conference of the Geo-Institute of ASCE. Abstracts are submitted first, and accepted authors then prepare full papers for the ASCE proceedings.
+  - ASCE's pages for proceedings authors describe the general paper format; each edition's author kit gives its template, page limit and deadlines.
+  - The 2027 edition is held as part of ASCE2027 (https://experience.asce.org/about/gi-at-asce2027); check where the current edition is hosted.
+
+last_checked: 2026-11-17

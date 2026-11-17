@@ -1,0 +1,19 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Canadian Geotechnical Journal
+also_known_as: [CGJ, Can. Geotech. J.]
+type: journal
+publisher: Canadian Science Publishing
+fields: [geotechnical engineering, soil mechanics, rock mechanics]
+
+links:
+  about: https://cdnsciencepub.com/journal/cgj/about
+  author_guidelines: https://cdnsciencepub.com/journal/cgj/authors
+  publisher_guidelines: https://cdnsciencepub.com/authors-and-reviewers/author-guidelines
+
+notes:
+  - The journal uses single-anonymous peer review (journal's About page).
+  - The publisher's general guidelines ask for manuscripts in English or French, double-spaced in a single column, with page numbers and continuous line numbers.
+
+last_checked: 2026-11-17

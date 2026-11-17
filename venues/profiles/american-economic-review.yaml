@@ -1,0 +1,21 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: American Economic Review
+also_known_as: [AER, Am. Econ. Rev.]
+type: journal
+publisher: American Economic Association (AEA)
+fields: [economics]
+
+links:
+  author_guidelines: https://www.aeaweb.org/journals/aer/submissions
+  policies: https://www.aeaweb.org/journals/aer/editorial-policy
+  accepted_articles: https://www.aeaweb.org/journals/aer/accepted-article-guidelines
+  data_policy: https://www.aeaweb.org/journals/data/data-code-policy
+
+notes:
+  - Every submission must comply with the AEA Data and Code Availability Policy, and field experiments must be registered in the AEA registry for randomized controlled trials.
+  - The paper, with any appendices inside it, must be understandable without the supplemental appendix.
+  - Accepted articles follow the Chicago Manual of Style and the AER Style Guide.
+
+last_checked: 2026-11-17

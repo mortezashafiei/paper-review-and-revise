@@ -1,0 +1,19 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Digital Scholarship in the Humanities
+also_known_as: [DSH]
+type: journal
+publisher: Oxford University Press
+fields: [digital humanities]
+
+links:
+  author_guidelines: https://academic.oup.com/dsh/pages/General_Instructions
+
+templates:
+  overleaf: https://www.overleaf.com/latex/templates/oup-general-template/ybpypwncdxyb
+
+notes:
+  - LaTeX submissions are welcome together with a PDF for peer review, and the guidelines ask for the OUP LaTeX template.
+
+last_checked: 2026-11-17

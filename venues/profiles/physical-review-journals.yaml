@@ -1,0 +1,22 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Physical Review journals
+also_known_as: [Physical Review, Phys. Rev., Physical Review Letters, Phys. Rev. Lett., PRL]
+type: journal-family
+publisher: American Physical Society (APS)
+fields: [physics]
+
+links:
+  author_guidelines: https://journals.aps.org/authors/length-guide
+  example_journal_guidelines: https://journals.aps.org/prresearch/authors
+
+templates:
+  latex: https://journals.aps.org/revtex
+
+notes:
+  - Each journal has an Information for Authors page at journals.aps.org, followed by the journal code and /authors (the second link above is the one for Physical Review Research).
+  - APS advises REVTeX 4.2 with the option for the target journal, for example prl for Physical Review Letters.
+  - The length guide explains how length is counted for each article type.
+
+last_checked: 2026-11-17

@@ -1,0 +1,17 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Journal of the American Chemical Society
+also_known_as: [JACS, J. Am. Chem. Soc.]
+type: journal
+publisher: American Chemical Society (ACS)
+fields: [chemistry]
+
+links:
+  author_guidelines: https://researcher-resources.acs.org/publish/author_guidelines?coden=jacsat
+
+notes:
+  - The author guidelines strongly encourage, but do not require, the Word template for Articles, and they link the templates.
+  - LaTeX users can prepare manuscripts with the achemso package that ACS provides; the ACS instructions for TeX and LaTeX submissions explain the options.
+
+last_checked: 2026-11-17

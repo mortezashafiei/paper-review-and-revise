@@ -1,0 +1,24 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: IEEE Transactions, Journals and Letters
+also_known_as: [IEEE Transactions, IEEE journals, IEEE Trans.]
+type: journal-family
+publisher: IEEE
+fields: [electrical and electronic engineering, computing, communications, signal processing, control]
+
+links:
+  homepage: https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/
+  author_guidelines: https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/
+  conferences: https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/authoring-tools-and-templates/
+
+templates:
+  latex_and_word: https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/
+  template_selector: https://template-selector.ieee.org/secure/templateSelector/publicationType
+
+notes:
+  - Each IEEE journal has its own page and rules; read them together with the IEEE Author Center.
+  - The Template Selector returns the template for one specific publication. The Author Center's tools page also offers the IEEE LaTeX Analyzer and the Reference Preparation Assistant.
+  - IEEE conferences use the conference templates on the Author Center for conferences, together with each conference's own call for papers.
+
+last_checked: 2026-11-17

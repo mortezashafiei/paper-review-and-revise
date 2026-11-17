@@ -1,0 +1,19 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: BMJ Open
+type: journal
+publisher: BMJ
+fields: [medicine, public health, health services research]
+
+links:
+  aims_and_scope: https://bmjopen.bmj.com/pages/research-aimsandscope/
+  author_guidelines: https://bmjopen.bmj.com/pages/authors
+  author_hub: https://authors.bmj.com/
+
+notes:
+  - Open access with an article processing charge; the instructions for authors state the current amount.
+  - Open peer review, so authors know who reviewed their work (instructions for reviewers).
+  - The BMJ Author Hub gives formatting guidance shared across BMJ journals; the journal's own instructions take precedence.
+
+last_checked: 2026-11-17

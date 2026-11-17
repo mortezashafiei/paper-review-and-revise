@@ -1,0 +1,23 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Conference on Neural Information Processing Systems
+also_known_as: [NeurIPS, NIPS]
+type: conference
+publisher: NeurIPS
+fields: [machine learning, artificial intelligence]
+
+links:
+  call_for_papers: https://neurips.cc/Conferences/2026/CallForPapers
+  handbook: https://neurips.cc/Conferences/2026/MainTrackHandbook
+  dates: https://neurips.cc/Conferences/2026/Dates
+
+templates:
+  latex: https://neurips.cc/Conferences/2025/PaperInformation/StyleFiles
+
+notes:
+  - Every edition has its own pages; replace the year in these links with that of the current edition, including the style-file page.
+  - Submissions go through OpenReview, and every author needs an OpenReview profile (2026 call).
+  - The 2026 edition ran a main track, an Evaluations and Datasets track and a position paper track, each with its own call.
+
+last_checked: 2026-11-17

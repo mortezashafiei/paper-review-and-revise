@@ -1,0 +1,18 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Geotechnical Testing Journal
+also_known_as: [GTJ, Geotech. Test. J.]
+type: journal
+publisher: ASTM International
+fields: [geotechnical testing, soil and rock testing, laboratory and field test methods]
+
+links:
+  homepage: https://store.astm.org/geotechnical-testing-journal.html
+  author_guidelines: https://www.astm.org/get-involved/publish-with-astm.html
+
+notes:
+  - The journal has its own ASTM Style Manual, separate from the manual used by the other ASTM journals, and it follows the Chicago Manual of Style.
+  - ASTM's author instructions ask for manuscripts as Microsoft Word files.
+
+last_checked: 2026-11-17

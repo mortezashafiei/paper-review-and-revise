@@ -1,0 +1,16 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Journal of Linguistics
+also_known_as: [JL]
+type: journal
+publisher: Cambridge University Press
+fields: [linguistics]
+
+links:
+  author_guidelines: https://www.cambridge.org/core/journals/journal-of-linguistics/information/author-instructions/preparing-your-materials
+
+notes:
+  - Accepts submissions in Word and in LaTeX; the journal's LaTeX template files are linked from its instructions.
+
+last_checked: 2026-11-17

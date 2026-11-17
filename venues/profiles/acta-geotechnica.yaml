@@ -1,0 +1,24 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: Acta Geotechnica
+also_known_as: [Acta Geotech., AG]
+type: journal
+publisher: Springer Nature
+fields: [geotechnical engineering, geomechanics, soil mechanics, rock mechanics]
+issn: [1861-1125, 1861-1133]
+
+links:
+  homepage: https://link.springer.com/journal/11440
+  aims_and_scope: https://link.springer.com/journal/11440/aims-and-scope
+  author_guidelines: https://link.springer.com/journal/11440/submission-guidelines
+
+templates:
+  latex: https://www.springernature.com/gp/authors/campaigns/latex-author-support
+  overleaf: https://www.overleaf.com/latex/templates/springer-nature-latex-template/gsvvftmrppwq
+
+notes:
+  - The aims and scope ask that experimental papers include a mechanistic interpretation or modeling of the laboratory results; the page states the exceptions.
+  - The Springer Nature LaTeX template serves all Springer Nature journals, and the journal's own submission guidelines take precedence over it.
+
+last_checked: 2026-11-17

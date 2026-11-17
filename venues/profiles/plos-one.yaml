@@ -1,0 +1,19 @@
+# Venue profile for the paper-review-and-revise skill. Official links and stable facts only;
+# the skill reads limits, fees and dates live from these links. Guide: venues/README.md
+
+name: PLOS ONE
+also_known_as: [PLoS ONE, PLOS One]
+type: journal
+publisher: Public Library of Science (PLOS)
+fields: [multidisciplinary]
+
+links:
+  author_guidelines: https://journals.plos.org/plosone/s/submission-guidelines
+
+templates:
+  latex: https://journals.plos.org/plosone/s/latex
+
+notes:
+  - Accepts Word and LaTeX manuscripts; the LaTeX page explains how LaTeX files are submitted.
+
+last_checked: 2026-11-17
