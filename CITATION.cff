@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this skill in your work, please cite it as below."
+title: "Paper Review and Revise: a Claude skill for reviewing and revising research papers against current venue requirements"
+abstract: "A skill for Claude, with a copy-paste prompt for any AI assistant, that reviews a research paper in any discipline as a demanding journal reviewer would and helps the author revise it. It checks the data and the citations, reads the current author guidelines and official templates of the target journal, conference or university through venue profiles, edits the language, produces tracked revisions and responses to reviewers, and runs a pre-submission check."
+authors:
+  - family-names: Shafiei
+    given-names: Morteza
+    affiliation: "University of Massachusetts Amherst"
+type: software
+version: 2.0.0
+date-released: 2026-11-17
+license: MIT
+repository-code: "https://github.com/mortezashafiei/paper-review-and-revise"
+keywords:
+  - peer review
+  - academic writing
+  - research papers
+  - author guidelines
+  - journal templates
+  - Claude skills
+  - Agent Skills
