@@ -1,0 +1,36 @@
+# Venue profile template for the paper-review-and-revise skill.
+#
+# A profile records only facts that rarely change, plus links to the venue's
+# own official pages. Word limits, fees and deadlines change often, so the
+# skill reads them from these links every time (SKILL.md, section 13.1).
+#
+# To create a profile:
+#   1. Copy this file to venues/profiles/<short-name>.yaml
+#      (lowercase letters, digits and hyphens, for example journal-of-example-studies.yaml).
+#   2. Fill in what you know and delete the lines you do not need.
+#   3. Use only links on the venue's official site or its publisher's site.
+#   4. Set last_checked to the date you last opened the links.
+# The full guide is in venues/README.md.
+
+name: ""            # Full official name, for example "Journal of Example Studies"
+also_known_as: []   # Abbreviations and other names used to match the venue, for example ["J. Ex. Stud.", "JES"]
+type: journal       # journal | journal-family | conference | book-series | thesis | preprint-server | other
+publisher: ""       # Publisher, society, organizer or university
+fields: []          # Subject areas, for example [hydrology, water resources]
+issn: []            # Print and electronic ISSN for journals, each written as NNNN-NNNN
+
+links:              # Official pages only; add other named links if useful
+  homepage: ""
+  aims_and_scope: ""
+  author_guidelines: ""   # The instructions for authors
+  call_for_papers: ""     # Conferences: the call for papers of the current edition
+  policies: ""            # Editorial, data or AI policies on a separate page
+
+templates:          # Official templates; leave empty if the venue offers none
+  latex: ""
+  word: ""
+  overleaf: ""
+
+notes: []           # Stable facts specific to this venue, each one traceable to an official page
+
+last_checked: ""    # Date the links were last opened, as YYYY-MM-DD
